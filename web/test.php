@@ -1,5 +1,9 @@
+<!-- fix: document doesn’t have a <title> element-->
+<!DOCTYPE html>
+<html lang="en">
 <html>
-<title></title>
+<!-- fix: document doesn’t have a <title> element-->
+<title>exercise 3</title>
 <head>
 </head>
 <body>
