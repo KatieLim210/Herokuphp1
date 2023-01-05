@@ -1,0 +1,14 @@
+{
+    "name": "KatieLim210/heroku",
+    "description": "description",
+    "minimum-stability": "stable",
+    "license": "proprietary",
+    "authors": [
+      {
+        "name": "Katie Lim",
+        "email": "21023701@myrp.edu.sg"
+      }
+    ],
+    "require": {
+    }
+  }
