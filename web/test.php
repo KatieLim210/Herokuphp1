@@ -5,7 +5,9 @@
 <!-- fix: document doesn’t have a <title> element-->
 <title>exercise 3</title>
 <head>
-  <!-- fix: Does not have a <meta name="viewport"> tag with width or initial-scale -->
+  <!-- fix: Document does not have a meta description-->
+  <meta name="description" content="Hello to the world.">
+  <!-- fix: Does not have a <meta name="viewport"> tag with width or initial-scale + font size-->
    <meta name="viewport" content="width=device-width, initial-scale=1">
 </head>
 <body>
